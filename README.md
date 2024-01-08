@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Hi! WELCOME TO MY Github profile 👋
 
 - 🔭 I’m currently working on programming
 - 🌱 I’m currently learning .NET
